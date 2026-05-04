@@ -52,9 +52,7 @@
 
 
 
-![Akanksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akanksha-Ceris&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-Ceris&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Akanksha-Ceris&theme=tokyonight&hide_border=true)
 
 
 
