@@ -1,10 +1,10 @@
 
-# Hey there! 👋 I'm Akanksha Kumari
+ I'm Akanksha Kumari
 
 
 
 
-### 🤖 AI/ML Enthusiast | Data Science Explorer | Problem Solver
+### 🤖 AI/ML  | Data Science  | Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-kumari-263a6529b)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akanksha_Algo/)
