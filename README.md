@@ -18,8 +18,7 @@
 ## 🚀 About Me
 
 - 🤖 Deeply passionate about **Artificial Intelligence & Machine Learning**
-- 📊 Exploring **Data Science** and uncovering insights from data
-- 🧠 Fascinated by **ML Algorithms** — from regression to deep learning
+  
 - 🛠️ Currently building exciting **AI/ML projects**
 - 
 
