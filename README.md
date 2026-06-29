@@ -169,13 +169,7 @@ Then go to **Actions tab → Snake → Run workflow** — done! 🎉
 
 ---
 
-### 💭 Quote of the Day
 
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 ---
 
