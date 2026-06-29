@@ -51,7 +51,6 @@
 ![Google Colab](https://img.shields.io/badge/Colab-ffb3c6?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-ff85b3?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-ffc8dd?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-ffb3c6?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-ff85b3?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
@@ -62,19 +61,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akanksha-Ceris&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=ff85b3&icon_color=ff85b3&text_color=555&ring_color=ffb3c6" height="165"/>
+<!-- Primary stats - uses github-readme-stats (most reliable) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Akanksha-Ceris&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=ff85b3&icon_color=ff85b3&text_color=666&count_private=true" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-Ceris&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff85b3&text_color=555&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-Ceris&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff85b3&text_color=666&langs_count=6" height="165"/>
 
 </div>
 
 ---
 
-### 🔥 Streak & Consistency
+### 🔥 Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akanksha-Ceris&hide_border=true&background=fff0f5&ring=ff85b3&fire=ffb3c6&currStreakLabel=ff85b3&sideLabels=ff85b3&dates=999&currStreakNum=ff4d94&sideNums=ff4d94" width="600"/>
+<!-- Using streak-stats with fallback URL format -->
+<img src="https://streak-stats.demolab.com?user=Akanksha-Ceris&hide_border=true&background=fff0f5&ring=ff85b3&fire=ff4d94&currStreakLabel=ff85b3&sideLabels=ff85b3&dates=888&currStreakNum=ff4d94&sideNums=ff4d94&stroke=ffe4f0" width="600"/>
 
 </div>
 
@@ -84,7 +85,8 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akanksha-Ceris&bg_color=fff0f5&color=ff85b3&line=ffb3c6&point=ff4d94&area_color=ffe4f0&area=true&hide_border=true&custom_title=Akanksha's%20Contribution%20Graph%20🌸)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Using github-readme-activity-graph - most stable option -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akanksha-Ceris&bg_color=fff0f5&color=ff85b3&line=ffb3c6&point=ff4d94&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -94,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akanksha-Ceris&theme=algolia&no-frame=true&no-bg=false&margin-w=6&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Akanksha-Ceris&theme=algolia&no-frame=true&margin-w=6&column=6"/>
 
 </div>
 
@@ -103,11 +105,11 @@
 ### 🧠 Current Learning Path
 
 ```
+📌 Data Analysis & EDA    ██████████████████░░  90%
 📌 Machine Learning       ████████████████░░░░  80%
 📌 Deep Learning          ██████████████░░░░░░  70%
-📌 NLP & Transformers     ████████░░░░░░░░░░░░  45%
 📌 Computer Vision        ██████████░░░░░░░░░░  55%
-📌 Data Analysis & EDA    ██████████████████░░  90%
+📌 NLP & Transformers     ████████░░░░░░░░░░░░  45%
 📌 Competitive Coding     ████████████░░░░░░░░  60%
 ```
 
@@ -115,54 +117,26 @@
 
 ### 🌸 Contribution Snake
 
-<div align="center">
+> ⚠️ **Setup required** — the snake needs a GitHub Action to generate its image file.
+> Follow the 3 steps below and it will appear here automatically!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akanksha-Ceris/Akanksha-Ceris/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akanksha-Ceris/Akanksha-Ceris/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Akanksha-Ceris/Akanksha-Ceris/output/github-contribution-grid-snake.svg">
-</picture>
+<details>
+<summary>🐍 Click here — Snake Setup (2 minutes)</summary>
 
-> 💡 *Enable snake: create `.github/workflows/snake.yml` — see comment at bottom of file*
+**Step 1:** In your `Akanksha-Ceris` repo → **Settings → Actions → General → Allow all actions** ✅
 
-</div>
+**Step 2:** Create a new file at `.github/workflows/snake.yml`
 
----
+**Step 3:** Paste this inside and commit:
 
-### 💭 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-### 🌷 Let's Connect!
-
-I'm always happy to talk about AI, data science, projects, or just say hi! 😊
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-kumari-263a6529b)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/My%20LeetCode-ffb3c6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akanksha_Algo/)
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer)
-
-<!--
-🐍 SNAKE SETUP (one-time, ~2 mins):
-1. In your Akanksha-Ceris repo → Settings → Actions → General → Allow all actions ✅
-2. Create file: .github/workflows/snake.yml
-3. Paste this inside:
-
+```yaml
 name: Snake
+
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
   snake:
     runs-on: ubuntu-latest
@@ -179,6 +153,44 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
-4. Go to Actions tab → Run workflow → Done! 🎉
--->
+Then go to **Actions tab → Snake → Run workflow** — done! 🎉
+
+</details>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akanksha-Ceris/Akanksha-Ceris/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akanksha-Ceris/Akanksha-Ceris/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Akanksha-Ceris/Akanksha-Ceris/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+### 💭 Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+### 🌷 Let's Connect!
+
+I'm always happy to talk about AI, data science, or just say hi! 😊
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-kumari-263a6529b)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/My%20LeetCode-ffb3c6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akanksha_Algo/)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer)
