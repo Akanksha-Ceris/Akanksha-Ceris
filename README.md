@@ -117,11 +117,10 @@
 
 ### 🌸 Contribution Snake
 
-> ⚠️ **Setup required** — the snake needs a GitHub Action to generate its image file.
-> Follow the 3 steps below and it will appear here automatically!
+> 
 
 <details>
-<summary>🐍 Click here — Snake Setup (2 minutes)</summary>
+<summary>
 
 **Step 1:** In your `Akanksha-Ceris` repo → **Settings → Actions → General → Allow all actions** ✅
 
