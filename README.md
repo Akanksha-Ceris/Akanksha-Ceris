@@ -122,11 +122,10 @@
 <details>
 <summary>
 
-**Step 1:** In your `Akanksha-Ceris` repo → **Settings → Actions → General → Allow all actions** ✅
 
-**Step 2:** Create a new file at `.github/workflows/snake.yml`
 
-**Step 3:** Paste this inside and commit:
+</summary>
+
 
 ```yaml
 name: Snake
