@@ -169,10 +169,10 @@ Then go to **Actions tab → Snake → Run workflow** — done! 🎉
 
 ---
 
-💭 Quote of the Day
+
 
 <div align="center">
-Show Image
+
 
 </div>
 
