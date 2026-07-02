@@ -8,8 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-kumari-263a6529b)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ffb3c6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akanksha_Algo/)
-[![GitHub](https://img.shields.io/badge/GitHub-ff85b3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akanksha-Ceris)
-![Profile Views](https://komarev.com/ghpvc/?username=Akanksha-Ceris&color=ff85b3&style=for-the-badge&label=VISITORS)
 
 </div>
 
