@@ -19,8 +19,7 @@
 - 🧠 Currently diving deep into **Deep Learning, NLP & Computer Vision**
 - 📊 Love transforming raw data into meaningful insights
 - 💻 Regular on **LeetCode** — sharpening problem-solving skills daily
-- ☕ Powered by coffee, curiosity, and clean code
-- 🎯 Goal: Build AI that actually makes a difference
+  
 
 ---
 
