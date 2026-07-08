@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akanksha-Ceris&theme=algolia&no-frame=true&margin-w=6&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Akanksha-Ceris&theme=algolia&no-frame=true&margin-w=10&column=6"/>
 
 </div>
 
